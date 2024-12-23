@@ -13,7 +13,7 @@ Creation of an image generator with artificial intelligence using the OpenAI API
 The structure consists of a web application where we will have a prompt input to write the prompt for the image we want to generate. By calling the DALL-E API, it will return the AI-generated image.
 
 ## Prerequisites: 
-We needIt is necessary to have an account on OpenAI and generate an API key.
+It is necessary to have an account on OpenAI and generate an API key.
 
 
 # Installation and Setup
